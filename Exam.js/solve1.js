@@ -83,5 +83,3 @@ solve1((["*S0ftUni is the B3St Plac3**",
 )
 
 
-let greed = "hello world"
-console.log(greed.substring(3,5));
